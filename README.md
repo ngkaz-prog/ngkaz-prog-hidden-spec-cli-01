@@ -1,0 +1,1 @@
+# ngkaz-prog-hidden-spec-cli-01
